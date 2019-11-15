@@ -1,5 +1,8 @@
 {
   "name":"try-action",
   "version":"0.0.0",
-  "private":true
+  "private":true,
+  "devDependencies": {
+    "jest":"lastest" 
+  }
 }
