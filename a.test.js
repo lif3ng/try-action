@@ -1,3 +1,3 @@
 test('test nothing',()=>{
-  expect(1+1).tobe(2)
+  expect(1+1).toBe(2)
 })
